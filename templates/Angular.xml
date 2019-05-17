@@ -1,0 +1,9 @@
+<templateSet group="Angular">
+  <template name="a-guard-can-load" value="import { Injectable } from '@angular/core';&#10;import { CanLoad, Route } from '@angular/router';&#10;&#10;@Injectable({providedIn: $2$})&#10;export class $Name$Guard implements CanLoad {&#10; constructor() { }&#10;&#10; canLoad(route: Route) {&#10;  return true;$END$&#10; }&#10;}" description="Angular CanLoad guard" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="2" expression="" defaultValue="&quot;'root'&quot;" alwaysStopAt="true" />
+    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="a-httpclient-get" value="return this.httpClient.get('$url$');$END$" description="Angular HttpClient.get" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="url" expression="" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

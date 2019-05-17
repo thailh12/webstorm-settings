@@ -1,0 +1,91 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/11.12.0/bin/node">
+      <version-cache version="11.12.0" last-modified="1553052055000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.12.0" last-modified="1553052055000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="editorAAType" value="No antialiasing" />
+    <option name="ideAAType" value="No antialiasing" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="79-71-0-255,,,164-156-0-255,,,121-0-164-255,,,208-208-208-255,,,240-240-240-255,,,255-255-255-255,,,248-248-248-255,,,160-161-161-255,,,215-216-216-255,,,220-221-221-255,,,229-230-230-255,,,234-235-235-255,,,244-245-245-255,,,236-237-237-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.51801366" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.34234235" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="prop&#10;log&#10;format&#10;tslint&#10;react" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="eslint&#10;setting&#10;githu&#10;eslin&#10;tslint" />
+    <property name="TrendingPluginsSearchHistory" value="console&#10;save&#10;format&#10;format action&#10;react" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="export.settings.marked" value="a-file-icons.xml|codestyles|editor.codeinsight.xml|debugger.xml|project.default.xml|colors.scheme.xml|colors|fileTemplates|find.xml|git.xml|applicationLibraries.xml|ignore.xml|inspection|editor.xml|keymap.xml|keymaps|templates|laf.xml|markdown.xml|material_custom_theme.xml|material_theme.xml|night-owl-theme.xml|other.xml|plugin_ui.xml|rainbow_brackets.xml|baseRefactoring.xml|ide.general.xml|diff.xml|ui.lnf.xml|updates.xml|" />
+    <property name="export.settings.path" value="$USER_HOME$/settings.zip" />
+    <property name="file.gist.reindex.count" value="463642" />
+    <property name="fileTypeChangedCounter" value="31" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="MT_DIRECTORIES" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.XML" value="Arrangement" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.3206951" />
+  </component>
+</application>
