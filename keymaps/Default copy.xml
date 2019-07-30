@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
   <action id="org.igu.plugins.consolelog.DisplayLogMessageAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
