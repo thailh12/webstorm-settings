@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
