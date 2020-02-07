@@ -1,61 +1,8 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ESLintProjectComponent">
-        <option name="nodeInterpreter" value="" />
-      </component>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <other-services-enabled>true</other-services-enabled>
-        <auto-save>true</auto-save>
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>CoffeeScript</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="PropertiesComponent">
-        <property name="node.js.path.for.package.eslint" value="project" />
-        <property name="node.js.path.for.package.standard" value="project" />
-        <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
-        <property name="node.js.selected.package.standard" value="" />
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
-      </component>
-      <component name="SaveActionSettings">
-        <option name="actions">
-          <set>
-            <option value="activate" />
-            <option value="reformatChangedCode" />
-          </set>
-        </option>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+        <property name="settings.editor.selected.configurable" value="preferences.customizations" />
       </component>
     </defaultProject>
   </component>
