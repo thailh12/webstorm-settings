@@ -5,7 +5,15 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581407280277" />
+              <option name="last" value="1581409782099" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SearchEverywhere">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581409777903" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -14,6 +22,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581407285306" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581409779771" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
