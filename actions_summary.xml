@@ -181,8 +181,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581472898978" />
-              <option name="times" value="10" />
+              <option name="last" value="1581497738605" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581472906477" />
-              <option name="times" value="8" />
+              <option name="last" value="1581497741358" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
