@@ -37,16 +37,16 @@
         <entry key="CommentByLineComment">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414422708" />
-              <option name="times" value="1" />
+              <option name="last" value="1581576930947" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581476249407" />
-              <option name="times" value="63" />
+              <option name="last" value="1581576927279" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -98,6 +98,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorDuplicate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581576911116" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
@@ -125,8 +133,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581416852921" />
-              <option name="times" value="5" />
+              <option name="last" value="1581576917133" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
