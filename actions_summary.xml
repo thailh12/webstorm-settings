@@ -85,8 +85,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591329677" />
-              <option name="times" value="10" />
+              <option name="last" value="1581654539953" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591124421" />
-              <option name="times" value="7" />
+              <option name="last" value="1581654528969" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581646297840" />
-              <option name="times" value="15" />
+              <option name="last" value="1581654516487" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581646300536" />
-              <option name="times" value="13" />
+              <option name="last" value="1581654518663" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
