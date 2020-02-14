@@ -21,8 +21,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584392214" />
-              <option name="times" value="6" />
+              <option name="last" value="1581646741842" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591333584" />
-              <option name="times" value="108" />
+              <option name="last" value="1581646338713" />
+              <option name="times" value="114" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584391178" />
-              <option name="times" value="13" />
+              <option name="last" value="1581646354205" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584354285" />
-              <option name="times" value="2" />
+              <option name="last" value="1581646301673" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591101582" />
-              <option name="times" value="14" />
+              <option name="last" value="1581646297840" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,16 +253,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584478820" />
-              <option name="times" value="8" />
+              <option name="last" value="1581646743274" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591110466" />
-              <option name="times" value="12" />
+              <option name="last" value="1581646300536" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584355431" />
-              <option name="times" value="1" />
+              <option name="last" value="1581646314344" />
+              <option name="times" value="15" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581646315870" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
