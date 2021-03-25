@@ -1,6 +1,0 @@
-<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="alt escape" />
-  </action>
-</keymap>
